@@ -2,6 +2,8 @@
 
 Focus Cat is a tiny, friendly productivity timer that helps you work in focused sessions that adapt to how you feel today, by first measuring your attention span.
 
+![alt text](image.png)
+
 ## How it works
 Start the timer and start working. When you feel your attention waver -- could be after 2h or 15 mins, doesn't matter -- stop it. This will set your session length for the day (that time will already count towards your goal!).
 
