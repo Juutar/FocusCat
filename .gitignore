@@ -12,7 +12,6 @@ env/
 # PyInstaller
 dist/
 build/
-*.spec
 
 # User data
 focus-today.json
